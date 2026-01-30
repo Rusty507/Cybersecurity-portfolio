@@ -1,12 +1,12 @@
 # Cybersecurity-portfolio
 What this is:
   "A running portfolio of my cybersecurity labs and learning projects."
-What you'll find here
+What you'll find here:
   Bullet list of sections.
-Tools used
+Tools used:
   Kali Linux, Wireshark, Nmap, etc.
-Current focus
+Current focus:
   "Security+ SY0-701, hands-on labs"
-Links
+Links:
   Linkedln
   Resume [later]
