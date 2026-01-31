@@ -40,6 +40,7 @@ What I did
 
 What I observed
 - ARP requests are broadcast to all devices on the local network
+- The ARP request originated from the local IP address 10.0.2.15, which is assigned to a virtual machine.
 - ARP replies provide the MAC address for a specific IP
 
 What I learned
