@@ -56,5 +56,27 @@ Screenshots
 
 # TCP handshake Lab
 
+Overview
+This lab focuses on observing TCP connection behavior.
+
+Goal
+The goal was to identify the TCP three-way handshake and reset behavior.
+
+What I did
+- Captured network traffic while visiting a website
+- Filtered traffic to show TCP packets
+- Inspected TCP flags
+
+What I observed
+- TCP connections begin with a SYN, SYN-ACK, and ACK
+- Reset packets appear when a connection is refused
+
+What I learned
+- TCP uses a three-step handshake to establish connections
+- RST packets indicate closed or rejected connections
+- Half-open connections occur when the handshake is not completed
 
 
+Screenshots
+![SYN packet](screenshots/SYN_packet)
+![SYN-ACK packet](screenshots/SYN-ACK_packet))
