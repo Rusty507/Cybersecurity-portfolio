@@ -21,4 +21,4 @@ Next steps:
 - Capture TCP handshake traffic
 
 Screenshots:
-![ICMP Capture](screenshots/icmp_capture.png)
+![ICMP Capture](screenshots/icmp_ping_capture_closeup.png)
