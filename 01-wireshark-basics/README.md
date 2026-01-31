@@ -22,4 +22,4 @@ Next steps:
 
 Screenshots:
 ![ICMP Capture](screenshots/icmp_ping_capture_closeup.png)
-![ICMP Capture](01-wireshark-basics/screenshots/icmp_ping_capture_overview.png)
+![ICMP Capture](screenshots/icmp_ping_capture_overview.png)
